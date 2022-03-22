@@ -1,0 +1,13 @@
+div {
+  width: 100%;
+  height: 200px;
+  border-style: dotted;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: larger;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+input {
+  display: none;
+}
